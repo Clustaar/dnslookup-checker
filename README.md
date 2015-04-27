@@ -1,0 +1,1 @@
+# googlebot-checker
