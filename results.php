@@ -39,10 +39,10 @@ if(isset($_POST['list']) && !empty($_POST['list'])) {
   foreach($ips as $ip) {
     echo $ip.";";
     $addr = gethostbyaddr($ip);
-    if(isset($addr)) echo "toto";
+//    if(isset($addr)) echo "toto";
     echo $addr.';';
     $name = gethostbyname($addr);
-    if(isset($name)) echo "tata";
+//    if(isset($name)) echo "tata";
     echo $name.'<br />';
   }
 }
