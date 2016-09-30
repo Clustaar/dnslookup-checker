@@ -30,7 +30,7 @@ Si les 3 résultats concordent, l'IP de départ est selon toute vraisemblance l�
 
 ## En savoir plus
 
-Visitez notre blog et [cet article explicatif](http://clustaar.com/blog/analyse-de-logs-et-googlebot-dissocier-le-vrai-du-faux/) pour en savoir plus.  
+Visitez notre blog et [cet article explicatif](http://clustaar.com/blog/analyse-de-logs-googlebot-dissocier-vrai-faux/) pour en savoir plus.  
 
 ## Contribuer
 
